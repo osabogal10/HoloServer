@@ -75,6 +75,7 @@ async function main() {
 
     try {
         const accessToken = await getAccessToken(subscriptionKey);
+        console.log(accessToken);
         await textToSpeech(accessToken, text);
     } catch (err) {
         console.log(`Something went wrong: ${err}`);
