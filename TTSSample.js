@@ -4,7 +4,8 @@ const xmlbuilder = require('xmlbuilder');
 const rp = require('request-promise');
 const fs = require('fs');
 const readline = require('readline-sync');
-
+const dotenv = require('dotenv')
+dotenv.config({ path: './env/holo.env' })
 
 // Gets an access token.
 function getAccessToken(subscriptionKey) {
@@ -64,8 +65,8 @@ async function main() {
     // You can replace this with a string containing your subscription key. If
     // you prefer not to read from an env variable.
     // e.g. const subscriptionKey = "your_key_here";
-    //const subscriptionKey = process.env.SPEECH_SERVICE_KEY;
-    const subscriptionKey = 'SPEECH_SERVICE_KEY'
+    const subscriptionKey = process.env.SPEECH_SERVICE_KEY;
+    //const subscriptionKey = 'SPEECH_SERVICE_KEY'
     if (!subscriptionKey) {
         throw new Error('Environment variable for your subscription key is not set.')
     };
