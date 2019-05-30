@@ -1,0 +1,59 @@
+{
+    "targetList": [
+      {
+        "targetName": "glasses",
+        "urlVideo": "http://holomuseo-server.herokuapp.com/shutterGlasses.mp4",
+        "urlAudio": "http://holomuseo-server.herokuapp.com/3DGlasses.wav",
+        "tituloHistoria": "3D Shutter Glasses",
+        "descripcionHistoria": "Un sistema activo de obturador 3D es una técnica de visualización de imágenes en 3D estereoscópico. Funciona presentando solamente la imagen destinada al ojo izquierdo mientras que bloquea la vista del ojo derecho,  presentando la imagen del ojo derecho mientras bloquea el ojo izquierdo, y repitiendo esto tan rápidamente que  interrupciones no interfieren con la fusión percibida de las dos imágenes en una sola imagen 3D. sistemas modernos de obturador activo 3D utilizan generalmente gafas de obturador de cristal líquido también llamadas \"gafas de obturador activo\"). El vidrio de cada ojo contiene una capa de cristal líquido que tiene la propiedad de volverse opaco cuando se aplica el voltaje, siendo por lo demás transparente. Las gafas están controladas por una señal de tiempo que permite que las gafas bloqueen alternativamente un ojo y  el otro, en sincronización con la frecuencia de refresco de la pantalla.La sincronización de tiempo con el equipo de video puede lograrse a través de una señal alámbrica o de forma inalámbrica, ya sea por medio de un transmisor de infrarrojos o de radiofrecuencia(por ejemplo, Bluetooth).",
+        "tituloTesis": "No hay Tesis disponibles en este momento.",
+        "descripcionTesis": ".",
+        "tituloDemos": "No hay Demos disponibles en este momento.",
+        "descripcionDemos": "."
+    },
+    {
+        "targetName": "novint",
+        "urlVideo": "http://holomuseo-server.herokuapp.com/novint.mp4",
+        "urlAudio":"http://holomuseo-server.herokuapp.com/Novint.wav",
+        "tituloHistoria": "Novint Falcon",
+        "descripcionHistoria": "El Novint Falcon es un tipo de mando de juego completamente nuevo. Al sustituir el ratón o el joystick, el Falcon es, en esencia, un pequeño robot que le permite experimentar un verdadero toque virtual, a diferencia de cualquier otro controlador de la historia.El Novint Falcon le permite controlar un juego en tres dimensiones y tres grados de libertad de movimiento, y también le permite sentir la retroalimentación de fuerza tridimensional de alta fidelidad.  controlador Falcon se mueve a derecha e izquierda, hacia delante y hacia atrás, como un ratón,  también hacia arriba y hacia abajo.Cuando usted sostiene el Grip desmontable del Falcon y mueve  cursor para interactuar con un objeto, entorno o personaje virtual, los motores del dispositivo se  y se actualizan aproximadamente 1000 veces por segundo, lo que le permite sentir la textura,  forma, el peso, la dimensión y la dinámica.El Falcon te permite controlar e interactuar con los juegos de una manera más realista, lo que te permite desarrollar una verdadera habilidad física y memoria muscular,  una nueva dimensión a los juegos.",
+        "tituloTesis": "No hay Tesis disponibles en este momento.",
+        "descripcionTesis": ".",
+        "tituloDemos": "No hay Demos disponibles en este momento.",
+        "descripcionDemos": "."
+    },
+    {
+        "targetName": "glove",
+        "urlVideo": "http://holomuseo-server.herokuapp.com/glove.mp4",
+        "urlAudio":"http://holomuseo-server.herokuapp.com/Glove.wav",
+        "tituloHistoria": "Essential Reality P5 Glove",
+        "descripcionHistoria": "Essential Reality se fundó con el objetivo de desarrollar, fabricar y distribuir periféricos 3D de última generación para las comunidades de usuarios de juegos, PC y profesionales. La misión de la empresa es revolucionar la forma en que las personas interactúan con los ordenadores y las consolas de videojuegos utilizando el movimiento intuitivo y natural como entrada principal. Su primer producto, el P5 Data Glove, es un dispositivo de entrada en 3D que captura la posición relativa de los dedos y la posición de la mano que permite una interacción intuitiva con los entornos 3D. El guante Essential Reality P5 se adapta a la mano y detecta todos sus movimientos en tres dimensiones y 6 grados de libertad de movimiento, convirtiéndose en la interfaz de un PC o consola de juegos. Este dispositivo fue lanzado al mercado en 2002 por aproximadamente $200 USD",
+        "tituloTesis": "No hay Tesis disponibles en este momento.",
+        "descripcionTesis": "",
+        "tituloDemos": "No hay Demos disponibles en este momento.",
+        "descripcionDemos": ""
+    },
+    {
+        "targetName": "oculusdk1",
+        "urlVideo": "http://holomuseo-server.herokuapp.com/oculusdk1.mp4",
+        "urlAudio":"http://holomuseo-server.herokuapp.com/Oculus.wav",
+        "tituloHistoria": "Oculus DK1",
+        "descripcionHistoria": "Oculus Rift DK1 es un dispositivo grande, negro, parecido a una máscara que se sujeta a los ojos. Hay cojines a los lados de las gafas para darle comodidad. La pantalla de DK1 es una pantalla LCD RGB con una resolución de 1280 x 800 o 640 x 800 por ojo. Tiene un campo de visión diagonal de 110 y  horizontal de 90. Oculus Rift DK1 sigue el movimiento de rotación de su cabeza con Giroscopio, Acelerómetro y Magnetómetro. Le permite mirar a su alrededor y sumergirse en el mundo virtual. El Oculus DK1 solo es capaz de detectar 3 grados de libertad de movimiento, por lo tanto no detecta profundidad en lo0s movimientos del jugador. Es la primera versión de la pantalla de realidad virtual Oculus Rift montada en la cabeza lanzada por Oculus VR. DK1 fue lanzado el 29 de marzo de 2013 por 300 dólares. DK1 está destinado a ser utilizado por desarrolladores y entusiastas de VR para crear contenido. Se descontinuó tras el lanzamiento de Oculus Rift DK2. En 2014 OculusVR fue adquirida por Facebook y a dia de hoy su dispositivo mas reciente es el Oculus Rift S",
+        "tituloTesis": "No hay Tesis disponibles en este momento.",
+        "descripcionTesis": "",
+        "tituloDemos": "No hay Demos disponibles en este momento.",
+        "descripcionDemos": ""
+    },
+    {
+        "targetName": "emagin",
+        "urlVideo": "http://holomuseo-server.herokuapp.com/emagin.mp4",
+        "urlAudio":"http://holomuseo-server.herokuapp.com/eMagin.wav",
+        "tituloHistoria": "eMagin Z800",
+        "descripcionHistoria": "El visor 3D eMagin Z800 es el primer producto para cumplir con la promesa de una experiencia de computación 3D envolvente con hasta 3 grados de libertad de movimiento. Ahora cualquiera puede rodearse con los datos visuales que necesitan - sin los límites de los monitores tradicionales y todo ello en completa privacidad. Ahora, los jugadores pueden jugar \"virtualmente dentro\" de sus juegos, personalmente inmersos en la acción. los usuarios de PC pueden experimentar y trabajar con sus datos en un entorno sin fronteras. entregan un video fluido Dos Micropantallas  eMagin SVGA 3D OLED de alto contraste con lentes de aumento que producen un campo de visión diagonal de 40 grados para cada ojo, se utilizan para visualizar imágenes estereoscópicas con una resolución fija de 800x600 píxeles. Este dispositivo fue lanzado al mercado en el año 2005 a un precio aproximado de $899 USD",
+        "tituloTesis": "No hay Tesis disponibles en este momento.",
+        "descripcionTesis": "",
+        "tituloDemos": "No hay Demos disponibles en este momento.",
+        "descripcionDemos": ""
+    }
+]
+}

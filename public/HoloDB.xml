@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="glove" size="0.200000 0.112500" />
+    <ImageTarget name="glasses" size="0.200000 0.112500" />
+    <ImageTarget name="oculusdk1" size="0.200000 0.112500" />
+    <ImageTarget name="emagin" size="0.200000 0.112500" />
+    <ImageTarget name="novint" size="0.200000 0.112500" />
+    <ImageTarget name="marker2" size="0.200000 0.200000" />
+    <ImageTarget name="cuba" size="0.100000 0.075000" />
+  </Tracking>
+</QCARConfig>
